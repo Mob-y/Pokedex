@@ -25,3 +25,5 @@ function PokemonCard({ pokemon }: PokemonCardProps) {
 }
 
 export default PokemonCard;
+
+
